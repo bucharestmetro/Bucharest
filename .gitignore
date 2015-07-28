@@ -1,6 +1,6 @@
-echo # test >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/bucharestmetro/test.git
-git push -u origin master
+ api/gtfs-data
+ api/tmp
+ 
+-scripts/gtfs-importer/gtfs-data
+-scripts/gtfs-importer/tmp
+-ft_login.rb
